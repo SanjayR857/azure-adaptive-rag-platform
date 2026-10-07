@@ -1,0 +1,1 @@
+# azure-adaptive-rag-platform
